@@ -1,0 +1,6 @@
+@NLog_sample_proj_HostAddress = http://localhost:5228
+
+GET {{NLog_sample_proj_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
